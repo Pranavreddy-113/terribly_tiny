@@ -3,7 +3,7 @@ import data from  '../data.json';
 import './subinfo';
 import Profileinfo from './profileinfo';
 import './maininfo.css';
-import profileimg from '../profileimg.png';
+import profileimg from '../profileimg.jpeg';
 
 
 const subinfo = () => {
